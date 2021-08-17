@@ -1,0 +1,42 @@
+Key ideas in essay:
+  * What would Socrates consider a successful definition of piety? What criterea?
+    * Does he talk about what kind of definition he's looking for prior to rejecting the first one?
+      * 5d: He's open to piety being either a term that applies "the same and alike" in all cases -- or not.
+      * 5d: Socrates understands Euthyphro here to have affirmed that there is "one form or appearance" of piety that applies to all cases. (see 6e where they refer to this)
+    * His rejection of the first definition makes it clear what he's looking for.
+  * Why does he think it is important to find such definition?
+
+# Outline
+* Socrates is looking for a definition of piety. Why?
+  * Socrates about to face charges of impious behavior: denying traditional gods, inventing new ones.
+  * Euthyphro about to confidently initiate charges seen to be impious.
+    * Socrates takes this to be evidence of Euthyphro's expertise in piety.
+    * Knowledge of piety would help Socrates defend himself in his upcoming trial.
+* What criterea distinguish a good from a bad definition for Socrates?
+  * 5d: "everything that is impious presents us with one form or appearance", "most certainly."
+  * 6e: not "not...one or two of many pious actions but that form itself that makes all pious actions pious."
+  * 6e: "I may look upon [the form], using it as a model, [and] say that any action...that is of that kind is pious."
+  * Non-contradiction: the same thing can't be both pious and not-pious.
+    * Comes up during the "beloved by the gods" definition before the "all" quantifier added.
+* How do (most of) Euthyphro's definitions fail to meet this criterea?
+* The "beloved by all the gods" definition.
+  * How it succeeds as a definition
+  * The dilemma
+    * Why it is asked
+    * How Euthyphro contradicts himself
+    * How contradition was unnecessary
+* What would be implied by the first horn?
+* What would be implied by accepting the second horn?
+
+For each definition of piety, write about whether it fails to satisfy Socrates and why.
+  * Prosecuting the wrongdoer, presumably discussed above.
+  * What is dear to the gods
+  * What is loved by *all* the gods. 
+    * Why does Socrates ask this?  
+    * The dilemma + how it undermines this
+      * Discuss the reductio
+      * Whether there is a response here missed by Euthyphro that could salvage this definition.
+        * Wokeupabug said that Euthyphro sort of failed to engage with the dilemma: at least, he answered inconsistently.
+        * If that's true, then Euthyphro could have consistently chosen either horn of the dilemma and ended up with a consistent position.
+  * Care for/service to the gods; a part of justice.
+  * Knowledge of sacrifice/prayer 
