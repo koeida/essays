@@ -1,4 +1,4 @@
-Key ideas in essay:
+# Key ideas in essay:
   * What would Socrates consider a successful definition of piety? What criterea?
     * Does he talk about what kind of definition he's looking for prior to rejecting the first one?
       * 5d: He's open to piety being either a term that applies "the same and alike" in all cases -- or not.
@@ -7,26 +7,47 @@ Key ideas in essay:
   * Why does he think it is important to find such definition?
 
 # Outline
-* Socrates is looking for a definition of piety. Why?
-  * Socrates about to face charges of impious behavior: denying traditional gods, inventing new ones.
-  * Euthyphro about to confidently initiate charges seen to be impious.
-    * Socrates takes this to be evidence of Euthyphro's expertise in piety.
-    * Knowledge of piety would help Socrates defend himself in his upcoming trial.
-* What criterea distinguish a good from a bad definition for Socrates?
-  * 5d: "everything that is impious presents us with one form or appearance", "most certainly."
-  * 6e: not "not...one or two of many pious actions but that form itself that makes all pious actions pious."
-  * 6e: "I may look upon [the form], using it as a model, [and] say that any action...that is of that kind is pious."
-  * Non-contradiction: the same thing can't be both pious and not-pious.
-    * Comes up during the "beloved by the gods" definition before the "all" quantifier added.
-* How do (most of) Euthyphro's definitions fail to meet this criterea?
-* The "beloved by all the gods" definition.
+## Thesis Statement
+In *Euthyphro*, Socrates attempts to discover the definition of piety in conversation with Euthyphro, all of whose definitions either fail to meet Socrates' criteria of a good definition or fail to meet basic standards of logical coherence. In this essay, I will discuss why Socrates is interested in learning the definition of piety, what criteria he uses to reject Euthyphro's definitions, and how one such definition remains salvageable despite Euthyphro's bungling of Socrates' questioning.
+
+## Socrates is looking for a definition of piety. Why?
+
+Socrates, facing charges of impiety for "creating new gods while not believing in the old gods" (3b), encounters a priest, Euthyphro, who is about to confidently indict his own father for murder, an act seen to be deeply impious by Socrates and others. Socrates takes this confidence to be evidence of Euthyphro's expertise in piety, and Euthyphro himself affirms that he is "superior to the majority of men" in his "knowledge of all such things" (5a). Socrates then asks to become his pupil, so that he might learn the nature of piety and impiety and be better able to respond to the charges against him.
+
+## What criterea distinguish a good from a bad definition for Socrates?
+
+Not any definition will do. Socrates, while seemingly open to the possibility that piety is "not the same and alike in every action," is looking for "one form or appearance" (5d) that piety and impiety present to us. Although Euthyphro affirms that there is one such form or appearance, it is obviously unclear to him what this means, and it is only through witnessing his failures to satisfy Socrates that we ourselves come to understand what sort of definition Socrates is seeking.
+
+Euthyphro's first definition of piety is "prosecuting the wrongdoer": what he sees himself to be doing while indicting his father for murder (5e). This fails to satisfy Socrates, and he provides additional clarification about what sort of definition he is seeking: "Not...one or two of many pious actions but that form itself that makes all pious actions pious."  Giving an example of a pious action  cannot by itself tell us what piety is, but it does move the conversation forward -- one can ask *what is it that makes **this** an example of piety?*  
+
+Socrates wants the definition to be a "model" (6e) that he can compare against any given act to determine whether it conforms. Attempting to take this into account, Euthyphro offers his second definition of piety: "What is dear to the gods" (7a). Unlike the previous definition, this one *prima facie* fulfills Socrates' criteria. Assuming it is possible to determine what is dear to the gods, we can hold this model up to any action and determine whether it is fittingly pious. Unfortunately, Socrates and Euthyphro have already agreed that there are disputes among the gods about the kinds of actions we'd like to evaluate. This being so, some actions will be both dear to the gods and not-dear to the gods, rendering those actions both pious and not-pious, which is self-contradictory. We can think of this self-contradiction as a violation of the "model" metaphor: it's impossible for a physical model to both model and fail to model the object it is intended to model.
+
+A slight adjustment to this definition avoids the self-contradiction: "The pious is what all the gods love" (9e). There are two different ways of understanding this definition, both of which meet Socrates' criteria for a good definition: either we call something pious because all the gods love it, or the gods all love pious things because they are pious.  Popularity is a similar concept to the former option: a person can be popular for all sorts of reasons -- their abilities, their appearance, their power, etc. But which bundle of reasons cause them to be popular is accidental: essentially, all that is required for someone to be called popular is that many people like them/stay informed about them/etc.  The latter option, that the gods love the pious because it is pious, makes piety analogous in a sense to talent: a talented person is talented regardless of whether people recognize their talent. Likewise here with piety.
+
+Euthyphro fails to consistently accept either one of these options, but they are both defensible. In the former case, we end up with an idea of piety as  
+
+
+
+
+
+  * Doesn't contradict other, stronger beliefs
+    * E.g, care of the gods contradicts the belief that we can't help the gods.
+
+## How do (most of) Euthyphro's definitions fail to meet this criterea?
+  * Prosecuting the wrongdoer: fails to be a form usable as a model
+  * What is dear to the gods: fails to be non-contradictory.
+    * Stories of gods both doing x and condemning x.
+    * So x ends up as both pious and impious.
+  * Care of the gods
+    * Ends up contradicting another more strongly held belief: that the gods cannot be benefitted by our actions.
+## The "beloved by all the gods" definition.
   * How it succeeds as a definition
   * The dilemma
     * Why it is asked
     * How Euthyphro contradicts himself
     * How contradition was unnecessary
-* What would be implied by the first horn?
-* What would be implied by accepting the second horn?
+	* What would be implied by the first horn?
+	* What would be implied by accepting the second horn?
 
 For each definition of piety, write about whether it fails to satisfy Socrates and why.
   * Prosecuting the wrongdoer, presumably discussed above.
